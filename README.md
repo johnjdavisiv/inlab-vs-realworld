@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# inlab-vs-realworld
-=======
 # In-lab versus real-world gait patterns
 
 This repository contains the code to replicate the results of "Are Gait Patterns during in-Lab Running Representative of Gait Patterns during Real-World Training? An Experimental Study" by Davis et al. 2024.  Please cite if you use the data or the code.   
