@@ -1,0 +1,6 @@
+data/*.csv
+*.png
+*.html
+*.Rhistory
+figures/*
+!figures/.gitkeep

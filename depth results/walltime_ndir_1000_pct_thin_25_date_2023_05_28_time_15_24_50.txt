@@ -1,0 +1,1 @@
+num_dir 1000 pct_thin 0.25 total_time 53660.7 sec
