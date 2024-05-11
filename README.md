@@ -28,4 +28,3 @@ Code for running the analyses is in /Code/ folder. Each script is independent, y
 Do be aware that the depth analysis can take >30 hours to run, even on a fast CPU, if you run it with the default `rw_thin_pct` (thinning percentage) of 0.25. Dial it back to 0.01 for testing or for an approximate reproduction of results.
 
 For the MATLAB code that adds incline and turn rate, see `/turn and incline calcs/` which includes a demo GPX file.  
->>>>>>> ad0abd3 (initial commit)
